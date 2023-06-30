@@ -1,4 +1,4 @@
- <h1 align="center"> NLW DevLinks </h1>
+ <h1 align="center">  DevLinks </h1>
 
 <p align="center"> projeto gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
